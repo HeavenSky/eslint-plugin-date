@@ -1,0 +1,21 @@
+{
+	"name": "eslint-plugin-date",
+	"version": "1.0.0",
+	"publishConfig": {
+		"registry": "https://registry.npmjs.org"
+	},
+	"main": "src/index.js",
+	"scripts": {
+		"test": "echo null"
+	},
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/HeavenSky/eslint-plugin-date"
+	},
+	"homepage": "http://github.com/HeavenSky/eslint-plugin-date",
+	"bugs": "http://github.com/HeavenSky/eslint-plugin-date/issues",
+	"authors": [
+		"HeavenSky <li.heaven@qq.com> (https://github.com/HeavenSky)"
+	],
+	"license": "MIT"
+}
