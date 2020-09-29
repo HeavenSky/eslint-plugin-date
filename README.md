@@ -1,7 +1,9 @@
-
-
 # eslint-plugin-date
 eslint plugin to handle safely date usage.
+
+## Contributing
+Source Code Reference from https://github.com/Skyscanner/eslint-plugin-skyscanner-dates
+But there are specical changes for Business Scenarios and eslint 7.x.
 
 ## Features
 This eslint plugin is meant to be used to avoid explicit usage/manupulation of date in JS, so to avoid issues with timezones.
@@ -46,7 +48,3 @@ Add to the `.eslintrc` file inside the root folder of a linted project:
   }
 }
 ```
-
-## Contributing
-Source Code Reference from https://github.com/Skyscanner/eslint-plugin-skyscanner-dates
-But there are specical changes for Business Scenarios and eslint 7.x.
